@@ -23,3 +23,7 @@ title: Stanislav Savitskii
 # Contact Info
 - email: poiiir985@gmail.com
 - telegram: @serenityisdied
+# Gruppa poddergki
+- Марцинкевич Ярослав Вячеславович
+- Почта: dns171020232@gmail.ru
+- https://github.com/dns171020232-debug/Uchuc_codit
